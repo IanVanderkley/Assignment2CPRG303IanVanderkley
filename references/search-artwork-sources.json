@@ -1,0 +1,30 @@
+[
+  {
+    "key": "party",
+    "title": "Party In the U.S.A.",
+    "artist": "Miley Cyrus",
+    "catalog": "https://music.apple.com/us/album/party-in-the-u-s-a/1445007710?i=1445007713&uo=4",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/29/3e/1f293e38-987a-9a77-d004-c866acebdac1/09BVMIM00838.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "key": "maybe",
+    "title": "Call Me Maybe",
+    "artist": "Carly Rae Jepsen",
+    "catalog": "https://music.apple.com/us/album/call-me-maybe/1440873664?i=1440874008&uo=4",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/14/54/19/145419b2-96f6-fc9e-3110-fbdc78022df6/12UMGIM48177.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "key": "firework",
+    "title": "Firework",
+    "artist": "Katy Perry",
+    "catalog": "https://music.apple.com/us/album/firework/716192216?i=716192625&uo=4",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/c8/d3/42/c8d342af-26d9-3ec2-c511-e1eaf860e299/13UABIM57787.rgb.jpg/600x600bb.jpg"
+  },
+  {
+    "key": "tik-tok",
+    "title": "TiK ToK",
+    "artist": "Kesha",
+    "catalog": "https://music.apple.com/us/album/tik-tok/381237317?i=381237322&uo=4",
+    "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/d2/a7/92d2a780-3aa9-8b58-b753-62e4175dd2ec/884977451856.jpg/600x600bb.jpg"
+  }
+]
